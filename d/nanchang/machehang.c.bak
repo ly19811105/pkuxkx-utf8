@@ -1,0 +1,73 @@
+// Zine Nov 26 2010
+inherit ROOM;
+#include <ansi.h>
+
+void create()
+{
+        set("short", "计氏马车总行");
+        set("long", "计氏马车行是江南地区最大的马车行，这里是他们的总行，挂着一个招牌(paizi)。\n");
+        set("exits", ([
+               "south" : __DIR__"weststreet",
+               
+                
+        ]));
+        set("item_desc", ([
+		"paizi" : "百年老店，竭诚为新老顾客提供方便。",
+	    ]));
+        set("objects", ([
+		"/d/nanchang/npc/chefu" : 1,
+        ]));
+        set("outdoors", "nanchang");
+        setup();
+   
+}
+
+void init()
+{
+	add_action("do_gu", ({ "gu", "hire"}));
+    add_action("do_shang", ({ "shang"}));
+}
+
+
+int do_shang()
+{
+    object me=this_player();
+    object room;
+    if (!me->query_temp("guche/shangallow"))
+    {
+        return 0;
+    }
+    else
+    {
+        room=load_object(__DIR__"dache");
+        if (room)
+        {
+            me->move(room);
+            me->set_temp("guche/qu",1);
+            me->delete_temp("guche/shangallow");
+            tell_object(me,"车夫道：大爷，你老人家要去(qu)哪里？\n");
+            tell_object(me,"\n南昌(nanchang)、成都(chengdu)、莆田(putian)、应天府(yingtianfu)、镇江(zhenjiang)、\n昆明(kunming)、大理(dali)、岳阳(yueyang)都有我们的车行。\n");
+            return 1;
+        }
+    }
+}
+int do_gu(string arg)
+{
+    object me=this_player();
+    if( arg!="che" && arg != "马车" && arg !="车" && arg !="ma che" && arg !="mache")
+    {
+        return notify_fail("你要雇什么车？\n");
+    }
+    message_vision("$N很有气势的大喝一声，雇车！\n",me);
+    if(!me->query_temp("guche/hiremache"))
+    {
+        message_vision("车夫鄙视的看着$N：先给钱再上车！\n",me);
+        return 1;
+    }
+    message_vision("车夫道："+this_object()->query("name")+"大爷，你老人家请快上车。\n",me);
+    tell_object(me,"车夫把车帘先开，请你上(shang)车。\n");
+    me->set_temp("guche/shangallow",1);
+    me->delete_temp("guche/hiremache");
+    return 1;
+}
+

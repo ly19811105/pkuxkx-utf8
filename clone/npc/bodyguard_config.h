@@ -1,0 +1,6 @@
+#define BG "/clone/npc/bodyguard_features/"
+#define BG_HIRE BG+"hire.c"
+#define BG_OBJECT BG+"object_handle.c"
+#define BG_SAVE BG+"save&load.c"
+#define BG_INIT BG+"init.c"
+#define BG_IMPROVE BG+"grow.c"

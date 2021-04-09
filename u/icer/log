@@ -1,0 +1,4 @@
+u/icer/workroom.c line 160: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/clean_up.c.
+u/icer/workroom.c line 160: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/clean_up.c.
+u/icer/workroom.c line 160: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/clean_up.c.
+u/icer/workroom.c line 160: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/clean_up.c.

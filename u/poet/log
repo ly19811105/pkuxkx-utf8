@@ -1,0 +1,37 @@
+u/poet/1003757798.c line 3: Undefined variable 'pig'
+u/poet/1003809431.c line 3: parse error
+u/poet/1003813294.c line 3: Undefined variable 'ob'
+u/poet/1003813307.c line 3: Undefined variable 'me'
+u/poet/1003813548.c line 1: Undefined variable 'me'
+u/poet/10038197129.c line 2: parse error
+u/poet/100381972410.c line 2: parse error
+u/poet/10038197240.c line 2: parse error
+u/poet/10038199021.c line 2: parse error
+u/poet/10038201982.c line 1: parse error
+u/poet/10038202505.c line 2: Undefined variable 'clone'
+u/poet/10038202505.c line 2: Undefined variable 'user'
+u/poet/10038202505.c line 2: Single '#' in identifier -- use '##' for token pasting
+u/poet/10038202505.c line 2: parse error
+u/poet/10038223721.c line 2: Undefined variable 'HIR'
+u/poet/10038223721.c line 2: parse error
+u/poet/10038506260.c line 3: parse error
+u/poet/10038506260.c line 3: Illegal LHS
+u/poet/test.c line 7: parse error
+u/poet/test.c line 7: Illegal LHS
+u/poet/test.c line 7: Illegal LHS
+u/poet/test.c line 7: parse error
+u/poet/test.c line 7: Illegal LHS
+u/poet/test.c line 7: Illegal LHS
+u/poet/test.c line 7: parse error
+u/poet/test.c line 7: Illegal LHS
+u/poet/test.c line 7: Warning: Value of conditional expression is unused
+u/poet/test.c line 7: parse error
+u/poet/test.c line 8: Illegal LHS
+u/poet/test.c line 8: Warning: Value of conditional expression is unused
+u/poet/test.c line 8: parse error
+u/poet/test.c line 8: Illegal LHS
+u/poet/test.c line 12: Undefined variable 'me'
+u/poet/10038528814.c line 3: Undefined variable 'channeld'
+u/poet/10038528814.c line 3: Undefined variable 'super'
+u/poet/10038528815.c line 3: Undefined variable 'channeld'
+u/poet/10038528815.c line 3: Undefined variable 'super'

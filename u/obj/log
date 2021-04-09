@@ -1,0 +1,1400 @@
+u/icer/obj/xitang.c line 25: Undefined variable 'a'
+u/icer/obj/xitang.c line 25: parse error
+u/icer/obj/xitang.c line 37: parse error
+u/icer/obj/xitang.c line 52: Illegal LHS
+u/icer/obj/xitang.c line 52: parse error
+u/icer/obj/xitang.c line 36: parse error
+u/icer/obj/xitang.c line 51: Illegal LHS
+u/icer/obj/xitang.c line 51: parse error
+u/icer/obj/d.c line 9: parse error
+u/icer/obj/d.c line 226: parse error
+u/icer/obj/d.c line 228: Illegal LHS
+u/icer/obj/d.c line 229: Reserved type name unexpected.
+u/icer/obj/d.c line 229: parse error
+u/icer/obj/d.c line 241: Illegal LHS
+u/icer/obj/d.c line 242: Undefined variable 'arg'
+u/icer/obj/d1.c line 353: Undefined variable 'me'
+u/icer/obj/d1.c line 396: Undefined variable 'file'
+u/icer/obj/d1.c line 440: Undefined variable 'str'
+u/icer/obj/d1.c line 466: Undefined variable 'str'
+u/icer/obj/d1.c line 466: Undefined variable 'str'
+u/icer/obj/d1.c line 531: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/armor/neck.c); using the definition in /feature/clean_up.c.
+u/gudu/obj/jinshe-book.c line 14: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 15: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/bibi/obj/fire/xiaomao.c line 9: parse error
+u/bibi/obj/fire/xiaomao.c line 16: Illegal character constant
+u/bibi/obj/fire/xiaomao.c line 16: Illegal character constant
+u/bibi/obj/fire/xiaomao.c line 28: End of file in string
+u/gudu/obj/zhenjing.c line 62: parse error
+u/gudu/obj/zhenjing.c line 61: Undefined function query_skill
+u/gudu/obj/zhenjing.c line 61: Invalid types to '/' ( unknown vs int )
+u/gudu/obj/zhenjing.c line 61: parse error
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/lian.c line 21: parse error
+u/gudu/obj/lian.c line 36: Illegal LHS
+u/gudu/obj/lian.c line 36: parse error
+u/tldm/obj/zzw.c line 2: parse error
+u/tldm/obj/zzw.c line 2: parse error
+u/tldm/obj/zzw.c line 21: Undefined variable 'add_action'
+u/tldm/obj/zzw.c line 21: parse error
+u/tldm/obj/zzw.c line 9: parse error
+u/tldm/obj/zzw.c line 15: parse error
+u/tldm/obj/zzw.c line 4: parse error
+u/tldm/obj/zzw.c line 8: Undefined variable 'names'
+u/tldm/obj/zzw.c line 11: Reserved type name unexpected.
+u/tldm/obj/zzw.c line 11: parse error
+u/tldm/obj/zzw.c line 7: Undefined variable 'names'
+u/tldm/obj/zzw.c line 17: Illegal to redeclare local name 'me'
+u/tldm/obj/zzw.c line 17: Undefined variable 'this_player'
+u/tldm/obj/zzw.c line 17: Illegal to redeclare local name 'me'
+u/tldm/obj/zzw.c line 17: Undefined variable 'this_player'
+u/tldm/obj/zzw.c line 32: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 17: Undefined variable 'this_player'
+u/tldm/obj/zzw.c line 32: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 17: Undefined variable 'this_player'
+u/tldm/obj/zzw.c line 19: Undefined variable 'ob'
+u/tldm/obj/zzw.c line 31: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 19: Undefined variable 'ob'
+u/tldm/obj/zzw.c line 31: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 27: Undefined variable 'ob'
+u/tldm/obj/zzw.c line 31: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 28: Undefined variable 'ob'
+u/tldm/obj/zzw.c line 31: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 31: Undefined variable 'ob'
+u/tldm/obj/zzw.c line 31: Undefined variable 'arg'
+u/tldm/obj/zzw.c line 31: Undefined variable 'arg'
+u/gudu/obj/xie.c line 4: Undefined function set_name
+u/gudu/obj/xie.c line 5: Undefined function set_weight
+u/gudu/obj/xie.c line 7: Undefined function set_default_object
+u/gudu/obj/xie.c line 9: Undefined function set
+u/gudu/obj/xie.c line 15: Undefined function setup
+u/gudu/obj/xie.c line 103: Undefined function query
+u/gudu/obj/jinshe-book.c line 12: Undefined variable 'book'
+u/gudu/obj/jinshe-book.c line 12: parse error
+u/gudu/obj/jinshe-book.c line 29: End of file in string
+u/gudu/obj/lian.c line 43: Undefined variable 'force'
+u/gudu/obj/lian.c line 43: Undefined variable 'force'
+u/gudu/obj/xixibook.c line 11: parse error
+u/gudu/obj/gun.c line 81: parse error
+u/gudu/obj/gun.c line 81: parse error
+u/icer/obj/sgdb.c line 21: parse error
+u/icer/obj/sgdb.c line 59: End of file in string
+u/icer/obj/sgdb.c line 21: parse error
+u/icer/obj/sgdb.c line 60: End of file in string
+u/icer/obj/sgdb.c line 43: Undefined variable 'ob'
+u/icer/obj/sgdb.c line 43: Undefined variable 'ob'
+u/icer/obj/sgdb.c line 58: parse error
+u/gudu/obj/lydao.c line 34: Undefined variable 'me'
+u/gudu/obj/lydao.c line 34: Undefined variable 'env'
+u/gudu/obj/lydao.c line 43: parse error
+u/gudu/obj/lydao.c line 32: Undefined variable 'me'
+u/gudu/obj/lydao.c line 34: Undefined variable 'env'
+u/gudu/obj/lydao.c line 44: parse error
+u/gudu/obj/gun.c line 82: Undefined variable 'zixia'
+u/gudu/obj/gun.c line 82: Undefined variable 'shengong'
+u/gudu/obj/xie.c line 26: parse error
+u/gudu/obj/xie.c line 26: parse error
+u/gudu/obj/xie.c line 26: parse error
+u/gudu/obj/xie.c line 26: parse error
+u/gudu/obj/xie.c line 26: parse error
+u/gudu/obj/xie.c line 26: parse error
+u/gudu/obj/xie.c line 26: parse error
+u/bibi/obj/fire/xiaomao.c line 9: parse error
+u/bibi/obj/fire/xiaomao.c line 16: Illegal character constant
+u/bibi/obj/fire/xiaomao.c line 16: Illegal character constant
+u/bibi/obj/fire/xiaomao.c line 28: End of file in string
+u/idle/obj/titan1.c line 30: parse error
+u/idle/obj/titan1.c line 34: Warning: Value of conditional expression is unused
+u/gudu/obj/gun.c line 31: Undefined function init_blade
+u/vast/obj/magiccloth.c line 423: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 429: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 423: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 429: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 423: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 429: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 423: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 429: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 423: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 429: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 423: Warning: Unknown \ escape.
+u/vast/obj/magiccloth.c line 429: Warning: Unknown \ escape.
+u/icer/obj/xiangshui.c line 30: parse error
+u/icer/obj/xiangshui.c line 51: End of file in string
+u/icer/obj/xiangshui.c line 30: parse error
+u/icer/obj/xiangshui.c line 51: End of file in string
+u/icer/obj/xiangshui.c line 29: parse error
+u/icer/obj/xiangshui.c line 29: parse error
+u/icer/obj/xiangshui.c line 30: parse error
+u/bibi/obj/fire/xiaomao.c line 9: parse error
+u/bibi/obj/fire/xiaomao.c line 16: Illegal character constant
+u/bibi/obj/fire/xiaomao.c line 16: Illegal character constant
+u/bibi/obj/fire/xiaomao.c line 28: End of file in string
+u/freecv/obj/frog.c line 82: parse error
+u/freecv/obj/frog.c line 101: Illegal LHS
+u/freecv/obj/frog.c line 101: parse error
+u/freecv/obj/frog.c line 102: Illegal LHS
+u/freecv/obj/frog.c line 102: parse error
+u/freecv/obj/frog.c line 104: Illegal LHS
+u/freecv/obj/frog.c line 118: parse error
+u/freecv/obj/frog.c line 136: parse error
+u/freecv/obj/frog.c line 152: Reserved type name unexpected.
+u/freecv/obj/frog.c line 152: parse error
+u/freecv/obj/frog.c line 152: Reserved type name unexpected.
+u/freecv/obj/frog.c line 152: parse error
+u/freecv/obj/frog.c line 153: Reserved type name unexpected.
+u/freecv/obj/frog.c line 153: parse error
+u/freecv/obj/frog.c line 153: Reserved type name unexpected.
+u/freecv/obj/frog.c line 153: parse error
+u/freecv/obj/frog.c line 153: Reserved type name unexpected.
+u/freecv/obj/frog.c line 153: parse error
+u/freecv/obj/frog.c line 153: Reserved type name unexpected.
+u/freecv/obj/frog.c line 153: parse error
+u/freecv/obj/frog.c line 164: parse error
+u/freecv/obj/frog.c line 164: parse error
+u/freecv/obj/frog.c line 164: parse error
+u/freecv/obj/frog.c line 167: Undefined variable 'context'
+u/freecv/obj/frog.c line 182: parse error
+u/freecv/obj/frog.c line 186: Undefined function fail_notify
+u/freecv/obj/frog.c line 186: Type of returned value doesn't match function return type ( unknown vs int )
+u/freecv/obj/frog.c line 188: Undefined variable 'SKILL_USAGE_ATTACK'
+u/freecv/obj/frog.c line 189: Undefined variable 'SKILL_USAGE_DEFENSE'
+u/freecv/obj/frog.c line 189: Reserved type name unexpected.
+u/freecv/obj/frog.c line 189: parse error
+u/freecv/obj/frog.c line 191: Illegal LHS
+u/freecv/obj/frog.c line 192: Undefined variable 'i'
+u/freecv/obj/frog.c line 192: Undefined variable 'ob'
+u/freecv/obj/frog.c line 194: Undefined variable 'obname'
+u/freecv/obj/frog.c line 189: Reserved type name unexpected.
+u/freecv/obj/frog.c line 189: parse error
+u/freecv/obj/frog.c line 191: Illegal LHS
+u/freecv/obj/frog.c line 192: Undefined variable 'i'
+u/freecv/obj/frog.c line 192: Undefined variable 'ob'
+u/freecv/obj/frog.c line 194: Undefined variable 'obname'
+u/freecv/obj/frog.c line 189: Reserved type name unexpected.
+u/freecv/obj/frog.c line 189: parse error
+u/freecv/obj/frog.c line 191: Illegal LHS
+u/freecv/obj/frog.c line 192: Undefined variable 'i'
+u/freecv/obj/frog.c line 192: Undefined variable 'ob'
+u/freecv/obj/frog.c line 194: Undefined variable 'obname'
+u/freecv/obj/selfsword.c line 60: Undefined variable 'freecv'
+u/freecv/obj/selfsword.c line 78: Undefined variable 'freecv'
+u/freecv/obj/selfsword.c line 58: Undefined variable 'obj'
+u/freecv/obj/robe.c line 15: Undefined variable 'HIY'
+u/freecv/obj/robe.c line 15: parse error
+u/freecv/obj/robe.c line 52: Warning: Value of conditional expression is unused
+u/freecv/obj/robe.c line 63: parse error
+u/freecv/obj/robe.c line 63: parse error
+u/freecv/obj/robe.c line 89: Undefined variable 'i'
+u/freecv/obj/ring.c line 7: Illegal to redefine 'nomask' function "query_weight"
+u/freecv/obj/ring.c line 7: Illegal to redefine 'nomask' function "_query"
+u/freecv/obj/ring.c line 7: Illegal to redefine 'nomask' function "_delete"
+u/freecv/obj/ring.c line 7: Illegal to redefine 'nomask' function "_set"
+u/freecv/obj/ring.c line 7: Illegal to redefine 'nomask' function "query_encumbrance"
+u/freecv/obj/ring.c line 7: Illegal to redefine 'nomask' function "over_encumbranced"
+u/freecv/obj/ring.c line 18: Undefined variable 'HIC'
+u/freecv/obj/ring.c line 18: parse error
+u/freecv/obj/ring.c line 33: Illegal LHS
+u/freecv/obj/ring.c line 33: parse error
+u/freecv/obj/ring.c line 52: Undefined variable 'name'
+u/freecv/obj/ring.c line 53: Undefined function offensive_target
+u/freecv/obj/ring.c line 53: Bad assignment ( object vs unknown ).
+u/freecv/obj/ring.c line 55: Undefined variable 'martial'
+u/freecv/obj/ring.c line 57: Undefined variable 'perform_file'
+u/freecv/obj/ring.c line 54: Undefined function offensive_target
+u/freecv/obj/ring.c line 54: Bad assignment ( object vs unknown ).
+u/freecv/obj/ring.c line 55: Reserved type name unexpected.
+u/freecv/obj/ring.c line 55: parse error
+u/freecv/obj/ring.c line 56: Undefined variable 'me'
+u/freecv/obj/ring.c line 56: Illegal LHS
+u/freecv/obj/ring.c line 57: Undefined variable 'size'
+u/freecv/obj/ring.c line 57: Undefined variable 'sz'
+u/freecv/obj/ring.c line 55: Reserved type name unexpected.
+u/freecv/obj/ring.c line 55: parse error
+u/freecv/obj/ring.c line 56: Undefined variable 'me'
+u/freecv/obj/ring.c line 56: Illegal LHS
+u/freecv/obj/ring.c line 57: Undefined variable 'sizes'
+u/freecv/obj/ring.c line 57: Undefined variable 'sz'
+u/freecv/obj/robe.c line 154: Bad argument 2 to efun present()
+u/freecv/obj/ring.c line 44: Undefined variable 'name'
+u/freecv/obj/robe.c line 183: Undefined function restore
+u/freecv/obj/robe.c line 206: Redeclaration of function restore.
+u/freecv/obj/robe.c line 150: parse error
+u/freecv/obj/robe.c line 168: Illegal LHS
+u/freecv/obj/robe.c line 171: parse error
+u/freecv/obj/xtpfm.c line 21: Undefined variable 'TYPE_REGULAR'
+u/freecv/obj/bed.c line 49: Reserved type name unexpected.
+u/freecv/obj/bed.c line 49: parse error
+u/freecv/obj/bed.c line 49: Reserved type name unexpected.
+u/freecv/obj/bed.c line 49: parse error
+u/freecv/obj/bed.c line 57: parse error
+u/freecv/obj/bed.c line 57: $var illegal outside of function pointer.
+u/freecv/obj/bed.c line 55: parse error
+u/freecv/obj/bed.c line 58: $var illegal outside of function pointer.
+u/freecv/obj/bed.c line 55: parse error
+u/freecv/obj/bed.c line 58: $var illegal outside of function pointer.
+u/icer/obj/bianshendan.c line 12: parse error
+u/advent/obj/haagendazs.c line 4: parse error
+u/advent/obj/haagendazs.c line 4: parse error
+u/advent/obj/puti-zi.c line 46: parse error
+u/advent/obj/puti-zi.c line 46: parse error
+u/advent/obj/puti-zi.c line 45: parse error
+u/advent/obj/shanlw.c line 31: parse error
+u/advent/obj/shanlw.c line 31: parse error
+u/advent/obj/haagendazs.c line 46: parse error
+u/advent/obj/tree77.c line 50: parse error
+u/advent/obj/tree77.c line 45: parse error
+u/advent/obj/ptz.c line 30: Undefined variable 'max_neili'
+u/advent/obj/ptz.c line 31: parse error
+u/advent/obj/ptz.c line 30: Undefined variable 'max_neili'
+u/iszt/obj/tie-ling.c line 25: Undefined variable 'me'
+u/iszt/obj/tie-ling.c line 2: parse error
+u/iszt/obj/tie-ling.c line 2: parse error
+u/advent/obj/shanlw.c line 31: parse error
+u/iszt/obj/peel.c line 68: Undefined variable 'arg'
+u/advent/obj/haagendazs.c line 45: parse error
+u/iszt/obj/peel.c line 329: Redeclaration of function query_autoload.
+u/iszt/obj/advent.c line 171: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/weapon/dagger.c) and /feature/clean_up.c; using the definition in /inherit/weapon/dagger.c.
+u/iszt/obj/plane.c line 38: Invalid argument types to '+' ( string vs object )
+u/whuan/obj/buwawa.c line 5: Cannot #include message.h
+u/jpei/obj/yao1.c line 3: Undefined function set_name
+u/jpei/obj/yao1.c line 6: Undefined function set
+u/jpei/obj/yao1.c line 13: Undefined function set_amount
+u/jpei/obj/yao.h line 28: Undefined variable 'HIR'
+u/jpei/obj/yao.h line 28: parse error
+u/jpei/obj/yao.h line 31: Undefined function unew
+u/jpei/obj/yao1.c line 6: parse error
+u/jpei/obj/yao1.c line 18: Undefined function set_amount
+u/jpei/obj/yao.h line 31: Undefined function unew
+u/jpei/obj/yao.h line 54: Undefined variable 'xx_poison'
+u/jpei/obj/yao.h line 56: Undefined function add_amount
+u/jpei/obj/yao.h line 107: Undefined variable 'poison'
+u/jpei/obj/yao.h line 31: Undefined function unew
+u/jpei/obj/yao.h line 54: Undefined variable 'xx_poison'
+u/jpei/obj/yao.h line 56: Undefined function add_amount
+u/jpei/obj/yao.h line 107: Undefined variable 'poison'
+u/jpei/obj/yao.h line 30: Undefined function unew
+u/jpei/obj/yao.h line 52: Undefined variable 'xx_poison'
+u/jpei/obj/yao.h line 102: Undefined variable 'poison'
+u/jpei/obj/yao.h line 32: Undefined function unew
+u/jpei/obj/yao.h line 58: Undefined function add_amount
+u/jpei/obj/yao.h line 23: Undefined function add_amount
+u/jpei/obj/yao.h line 32: Undefined function unew
+u/jpei/obj/yao.h line 23: Undefined function add_amount
+u/jpei/obj/yao.h line 32: Undefined function unew
+u/jpei/obj/yao.h line 23: Undefined function add_amount
+u/jpei/obj/yao.h line 32: Undefined function unew
+u/jpei/obj/yao1.c line 6: parse error
+u/jpei/obj/yao.h line 32: Undefined function unew
+u/jpei/obj/yao1a.c line 24: Cannot #include yaoa.h
+u/jpei/obj/yao1a.c line 18: Cannot #include yaoa.h
+u/icer/obj/firework.c line 41: Undefined variable 'fire'
+u/icer/obj/firework.c line 49: parse error
+u/icer/obj/firework.c line 58: Illegal LHS
+u/icer/obj/firework.c line 58: parse error
+u/icer/obj/firework.c line 63: Illegal LHS
+u/icer/obj/firework.c line 67: Illegal LHS
+u/icer/obj/firework.c line 49: parse error
+u/icer/obj/firework.c line 58: Illegal LHS
+u/icer/obj/firework.c line 58: parse error
+u/icer/obj/firework.c line 63: Illegal LHS
+u/icer/obj/firework.c line 67: Illegal LHS
+u/icer/obj/firework.c line 69: Undefined variable 'type'
+u/icer/obj/firework.c line 50: Undefined variable 'gift'
+u/icer/obj/firework.c line 69: Undefined variable 'CHIENSE_D'
+u/icer/obj/firework.c line 69: Undefined variable 'CHIENSE_D'
+u/icer/obj/firework.c line 74: Undefined variable 'CHIENSE_D'
+u/becool/obj/dpqiang.c line 4: parse error
+u/becool/obj/dpqiang.c line 4: parse error

@@ -1,0 +1,200 @@
+Sat Nov 07 12:57:31 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/city/npc/items/pixue'
+
+程式：/inherit/char/npc.c 第 13 行
+物件: /d/city/npc/qinjun
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/d/city/xiaolu.c 的 create() 第 22 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 setup() 第 382 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 reset() 第 180 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 make_inventory() 第 20 行，物件： /d/city/xiaolu
+呼叫来自：/d/city/npc/qinjun.c 的 create() 第 42 行，物件： /d/city/npc/qinjun ("亲兵")
+呼叫来自：/inherit/char/npc.c 的 carry_object() 第 13 行，物件： /d/city/npc/qinjun ("亲兵")
+Sat Nov 07 12:57:38 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/hangzhou/sitian'
+
+程式：/adm/daemons/mapd.c 第 92 行
+物件: /adm/daemons/mapd
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+Sat Nov 07 12:57:39 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#1603 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:02:44 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/hangzhou/sitian'
+
+程式：/adm/daemons/mapd.c 第 92 行
+物件: /adm/daemons/mapd
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+Sat Nov 07 13:03:05 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#1346 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:03:12 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/city/npc/items/pixue'
+
+程式：/inherit/char/npc.c 第 13 行
+物件: /d/city/npc/qinjun
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/d/city/xiaolu.c 的 create() 第 22 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 setup() 第 382 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 reset() 第 180 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 make_inventory() 第 20 行，物件： /d/city/xiaolu
+呼叫来自：/d/city/npc/qinjun.c 的 create() 第 42 行，物件： /d/city/npc/qinjun ("亲兵")
+呼叫来自：/inherit/char/npc.c 的 carry_object() 第 13 行，物件： /d/city/npc/qinjun ("亲兵")
+Sat Nov 07 13:03:32 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/city/npc/items/pixue'
+
+程式：/inherit/char/npc.c 第 13 行
+物件: /d/city/npc/qinjun
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/d/city/xiaolu.c 的 create() 第 22 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 setup() 第 382 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 reset() 第 180 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 make_inventory() 第 20 行，物件： /d/city/xiaolu
+呼叫来自：/d/city/npc/qinjun.c 的 create() 第 42 行，物件： /d/city/npc/qinjun ("亲兵")
+呼叫来自：/inherit/char/npc.c 的 carry_object() 第 13 行，物件： /d/city/npc/qinjun ("亲兵")
+Sat Nov 07 13:03:35 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#2739 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:03:40 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/hangzhou/sitian'
+
+程式：/adm/daemons/mapd.c 第 92 行
+物件: /adm/daemons/mapd
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+Sat Nov 07 13:03:56 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#264 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:04:03 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/hangzhou/sitian'
+
+程式：/adm/daemons/mapd.c 第 92 行
+物件: /adm/daemons/mapd
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+Sat Nov 07 13:04:17 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/city/npc/items/pixue'
+
+程式：/inherit/char/npc.c 第 13 行
+物件: /d/city/npc/qinjun
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/d/city/xiaolu.c 的 create() 第 22 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 setup() 第 382 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 reset() 第 180 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 make_inventory() 第 20 行，物件： /d/city/xiaolu
+呼叫来自：/d/city/npc/qinjun.c 的 create() 第 42 行，物件： /d/city/npc/qinjun ("亲兵")
+呼叫来自：/inherit/char/npc.c 的 carry_object() 第 13 行，物件： /d/city/npc/qinjun ("亲兵")
+Sat Nov 07 13:04:40 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#3335 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:05:15 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/city/npc/items/pixue'
+
+程式：/inherit/char/npc.c 第 13 行
+物件: /d/city/npc/qinjun
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/d/city/xiaolu.c 的 create() 第 22 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 setup() 第 382 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 reset() 第 180 行，物件： /d/city/xiaolu
+呼叫来自：/inherit/room/room.c 的 make_inventory() 第 20 行，物件： /d/city/xiaolu
+呼叫来自：/d/city/npc/qinjun.c 的 create() 第 42 行，物件： /d/city/npc/qinjun ("亲兵")
+呼叫来自：/inherit/char/npc.c 的 carry_object() 第 13 行，物件： /d/city/npc/qinjun ("亲兵")
+Sat Nov 07 13:05:21 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#2064 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:11:47 2020
+执行时段错误：*Value being indexed is zero.
+
+程式：/adm/daemons/eventd.c 第 103 行
+物件: /adm/daemons/eventd
+呼叫来自：/d/wizard/npc/pkuxkx.c 的 event() 第 136 行，物件： /d/wizard/npc/pkuxkx#443 ("[1;37m北大侠客行[2;37;0m")
+呼叫来自：/adm/daemons/eventd.c 的 create() 第 41 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/eventd.c 的 collect_all_event() 第 67 行，物件： /adm/daemons/eventd
+呼叫来自：/adm/daemons/event/chaoxin.c 的 create_event() 第 15 行，物件： /adm/daemons/event/chaoxin
+呼叫来自：/adm/daemons/eventd.c 的 at_after() 第 103 行，物件： /adm/daemons/eventd
+Sat Nov 07 13:11:58 2020错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/hangzhou/sitian'
+
+程式：/adm/daemons/mapd.c 第 92 行
+物件: /adm/daemons/mapd
+呼叫来自：/adm/daemons/taskd.c 的 update_each_task() 第 76 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/taskd.c 的 random_place() 第 741 行，物件： /adm/daemons/taskd
+呼叫来自：/adm/daemons/mapd.c 的 random_place() 第 141 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 random_room() 第 92 行，物件： /adm/daemons/mapd
+呼叫来自：/adm/daemons/mapd.c 的 CATCH() 第 92 行，物件： /adm/daemons/mapd
