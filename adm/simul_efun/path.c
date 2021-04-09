@@ -16,7 +16,7 @@ string resolve_path(string curr, string new_path)
 {
     int i;
     string *tmp;
-    string t1,t2,t3,t4;
+    string t1;
 
 	if (!curr) curr = "/";
 	if (!new_path || new_path == ".") return curr;
@@ -27,7 +27,7 @@ string resolve_path(string curr, string new_path)
 	if (sscanf(new_path,"~/%s",t1))
 		new_path = user_path(getuid(this_player())) + t1;
 	else if (sscanf(new_path,"~%s",t1))
-		new_path = user_path(t1); 
+		new_path = user_path(t1);
 	else if (new_path[0] != '/') {
 		if( curr[sizeof(curr)-1] != '/' ) new_path = curr + "/" + new_path;
 		else new_path = curr + new_path;

@@ -5,19 +5,20 @@
 // original from Lil
 // rewritten by Annihilator (11/07/94)
 // modified by Xiang for XKX (12/15/95
-#define UTF8_PORT 8888
+#define UTF8_PORT 6666
 
 object connect(int port)
 {
 	object login_ob;
 	mixed err;
 
-      set_encoding("GBK");
+    set_encoding("GBK");
 	err = catch(login_ob = new(LOGIN_OB));
 
 	if(port == UTF8_PORT)
 	{
-		login_ob->set_temp("UTF8",1);
+		login_ob->set_temp("UTF8", 1);
+        set_encoding("UTF8");
 	}
 
 	if (err) {
@@ -97,9 +98,9 @@ void preload(string file)
 {
 	int t1;
 	string err;
-   	
+
 	if (file_size(file+".c") == -1)
-	{	
+	{
 		efun::write_file("/log/preload",file+".c does not exist.\n");
 		return;
 	}
@@ -114,18 +115,37 @@ void preload(string file)
 // 'file', giving the error message 'message'.
 void log_error(string file, string message)
 {
-	string name, home;
-   
-	if( find_object(SIMUL_EFUN_OB) )
-		name = file_owner(file);
+    string name, home;
 
-	if (name) home = user_path(name);
-	else home = LOG_DIR;
+    if (find_object(SIMUL_EFUN_OB))
+        name = file_owner(file);
 
-	if(this_player(1)) efun::write("编译时段错误：" + message+"\n");
+    if (name)
+        home = user_path(name);
+    else
+        home = LOG_DIR;
 
-	efun::write_file(home + "log", ctime(time())+"\n");	
-	efun::write_file(home + "log", message);
+    // if (this_player(1))
+    //     efun::write("编译时段错误：" + message + "\n");
+
+    // efun::write_file(home + "log", ctime(time()) + message + "\n");
+    if (strsrch(message, "Warning") == -1)
+    {
+        if (this_player(1))
+        {
+            if (wizardp(this_player(1)))
+                efun::write("编译时段错误：" + message + "\n");
+            else
+                efun::write(get_config(11) + "\n");
+        }
+        // 记录错误日志
+        efun::write_file(home + "log_error", message);
+    }
+    else
+    {
+        // 记录警告日志
+        efun::write_file(home + "log", message, 1);
+    }
 }
 
 // save_ed_setup and restore_ed_setup are called by the ed to maintain
@@ -134,7 +154,7 @@ void log_error(string file, string message)
 int save_ed_setup(object who, int code)
 {
 	string file;
-  
+
     if (!intp(code))
         return 0;
     file = user_path(getuid(who)) + ".edrc";
@@ -148,7 +168,7 @@ int retrieve_ed_setup(object who)
 {
    string file;
    int code;
-  
+
     file = user_path(getuid(who)) + ".edrc";
     if (file_size(file) <= 0) {
         return 0;
@@ -380,7 +400,7 @@ int valid_override( string file, string name )
 int valid_seteuid( object ob, string str )
 {
 	return 1;
-	
+
     return (int)SECURITY_D->valid_seteuid( ob, str );
 }
 
@@ -415,7 +435,7 @@ int valid_hide( object who )
 //   exist
 int valid_object( object ob )
 {
-	
+
     return (!clonep(ob)) || inherits(F_MOVE, ob);
 }
 
@@ -435,7 +455,7 @@ int valid_save_binary( string filename )
 }
 
 // valid_write: write privileges; called with the file name, the object
-//   initiating the call, and the function by which they called it. 
+//   initiating the call, and the function by which they called it.
 int valid_write( string file, mixed user, string func )
 {
 	object ob;
@@ -449,19 +469,19 @@ int valid_write( string file, mixed user, string func )
 
 // valid_read: read privileges; called exactly the same as valid_write()
 int valid_read( string file, mixed user, string func )
-	
-{
-	
 
-  
-    
-          object ob; 
+{
+
+
+
+
+          object ob;
          return 1;
 
 		//if( "/"+file == SECURITY_D && geteuid(user) == ROOT_UID) return 1;
 		//return 1;
-        if( ob = find_object(SECURITY_D) )              
-               return (int)SECURITY_D->valid_read(file, user, func);  
+        if( ob = find_object(SECURITY_D) )
+               return (int)SECURITY_D->valid_read(file, user, func);
         return 0;
 
 }

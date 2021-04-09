@@ -7,7 +7,7 @@ int jiancha_jieguo(object me, string arg);
 void create()
 {
         set("short", "司天监");
-        set("long", 
+        set("long",
 "这里司天监的衙门。一座巨大的仪器矗立在院子正中，这就是著名的浑天\n仪(machine)。\n"
 
         );
@@ -15,7 +15,7 @@ void create()
 		"machine" : (:look_machine:),
 	    ]));
         set("exits", ([
-		"east" : __DIR__"guandaon1",   
+		"east" : __DIR__"guandaon1",
         ]));
         set("objects", ([(__DIR__"obj/huntian") : 1,
         ]));
@@ -23,7 +23,7 @@ void create()
         set("rate",150);
         setup();
         call_out("gettime",1);
-   
+
 }
 
 string look_machine()
@@ -87,7 +87,7 @@ int do_jiangdeng(string arg)
 		return notify_fail("才这么点神尼等级就来降等？做梦！\n");
 	}
     if (sscanf(arg, "%d", times) == 1)
-    {	
+    {
 		if ((me->query("exp_dep")<times))
 		{
 			return notify_fail("你的修行经验没有你输入的多，看清楚再输入正确值。\n");
@@ -136,7 +136,7 @@ int do_zhenbie(string arg)
 if( !arg || sscanf(arg, "%s", arg_id)!=1 )
 		return notify_fail("乱查什么查！请用zhenbie machine或者zhenbie 你的id 来辨别是否正常。\n");
 	else
-	{	
+	{
 		if (arg_id == "machine")
 		{
 	        message_vision(HIY"$N翻来覆去地仔细摩挲浑天仪，左看右看……\n"NOR,me);
@@ -165,7 +165,7 @@ int relative_event()
 	all_player = filter_array(children(USER_OB), (: userp :));
 	all_player = filter_array(all_player, (: environment :));
 	all_player = filter_array(all_player, (: $1->query("relationship/target") :) );
-	if(!sizeo(all_player)) return 0;
+	if(!sizeof(all_player)) return 0;
 	luckyone=all_player[random(sizeof(all_player))];
 	if (luckyone)
 	{
@@ -219,7 +219,7 @@ int gettime()
 		relative_event();
 	}
 	if (member_array(w_day,Karma_weekdays)!=-1&&member_array(hour,Karma_hours)!=-1&&minute>0&&minute<11)
-	{	
+	{
 		Karma_start();
 	}
     if (hour==7&&minute>10&&minute<21)
@@ -270,4 +270,3 @@ int jiancha_jieguo(object me, string arg)
 	}
 return 1;
 }
-

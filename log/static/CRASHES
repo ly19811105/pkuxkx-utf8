@@ -257,3 +257,15 @@ MudRen crashed on: Sat Nov 07 12:38:29 2020, error: SIGINT: Process interrupted
 侠客行 crashed on: Sat Nov 07 13:04:17 2020, error: SIGINT: Process interrupted
 
 侠客行 crashed on: Sat Nov 07 13:05:03 2020, error: SIGINT: Process interrupted
+
+北大侠客行 crashed on: Fri Apr 09 20:59:12 2021, error: SIGINT: Process interrupted
+
+北大侠客行 crashed on: Fri Apr 09 21:06:35 2021, error: SIGINT: Process interrupted
+
+北大侠客行 crashed on: Fri Apr 09 21:22:04 2021, error: SIGINT: Process interrupted
+
+北大侠客行 crashed on: Fri Apr 09 21:22:58 2021, error: 系统核心告诉你：要当机了，自己保重吧！
+
+this_player: 1
+this_object: "系统核心告诉你：要当机了，自己保重吧！
+"

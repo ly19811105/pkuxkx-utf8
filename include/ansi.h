@@ -1,17 +1,17 @@
 #ifndef ANSI_H
 #define ANSI_H
 
- 
+
 //	File	:  /include/ansi.h
-//	Creator	:  Gothic@TMI-2  
+//	Creator	:  Gothic@TMI-2
 //
 //	The standard set of ANSI codes for mudlib use.
- 
+
 #define ESC	""
 #define CSI	ESC + "["
- 
+
                 /*  Foreground Colors  */
- 
+
 #define BLK ESC+"[30m"          /* Black    黑*/
 #define RED ESC+"[31m"          /* Red      酱红*/
 #define GRN ESC+"[32m"          /* Green    浅绿*/
@@ -20,9 +20,9 @@
 #define MAG ESC+"[35m"          /* Magenta  紫色*/
 #define CYN ESC+"[36m"          /* Cyan     天蓝*/
 #define WHT ESC+"[37m"          /* White    灰白*/
- 
+
                 /*   Hi Intensity Foreground Colors   */
-#define HIK	ESC "[1;30m"	      /* Black    浅黑*/ 
+#define HIK	ESC "[1;30m"	      /* Black    浅黑*/
 #define HIR ESC+"[1;31m"        /* Red      红色*/
 #define HIG ESC+"[1;32m"        /* Green    绿色*/
 #define HIY ESC+"[1;33m"        /* Yellow   黄色*/
@@ -41,9 +41,9 @@
 #define HBMAG ESC+"[45;1m"       /* Magenta  */
 #define HBCYN ESC+"[46;1m"       /* Cyan     */
 #define HBWHT ESC+"[47;1m"       /* White    */
- 
+
                 /*  Background Colors  */
- 
+
 #define BBLK ESC+"[40m"          /* Black    */
 #define BRED ESC+"[41m"          /* Red      */
 #define BGRN ESC+"[42m"          /* Green    */
@@ -54,11 +54,11 @@
 // #define BWHT ESC+"[47m"          /* White    */
 
 #define NOR ESC+"[2;37;0m"      /* Puts everything back to normal */
- 
+
 /*  Additional ansi Esc codes added to ansi.h by Gothic  april 23,1993 */
 /* Note, these are Esc codes for VT100 terminals, and emmulators */
 /*       and they may not all work within the mud               */
- 
+
 #define BOLD ESC+"[1m"          /* Turn on bold mode */
 #define LINEB		ESC+"[4m"			  // 底线
 #define CLR ESC+"[2J"           /* Clear the screen  */
@@ -92,21 +92,8 @@
 
 // 一个用线画的行，专为Windows NT兼容而设计。
 // by yiru@hero
-
 #define SPACE_LINE "                \n"
-
 #define DASH_LINE "------------------------------------------------------------------------"
-
-#define DASH_LINE_LF "------------------------------------------------------------------------\n"
-
-
-// 一个用线画的行，专为Windows NT兼容而设计。
-// by yiru@hero
-
-#define SPACE_LINE "                \n"
-
-#define DASH_LINE "------------------------------------------------------------------------"
-
 #define DASH_LINE_LF "------------------------------------------------------------------------\n"
 
 // cursor correction by yiru@hero

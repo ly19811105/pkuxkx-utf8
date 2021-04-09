@@ -1,6 +1,6 @@
 int random(mixed range)
 {
-	int range_i;
+	// int range_i;
 	if(floatp(range) || intp(range))
 	{
 		return efun::random(to_int(range));
