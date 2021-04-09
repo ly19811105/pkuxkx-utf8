@@ -10,4 +10,4 @@
 
 ![file](https://api.mud.ren/storage/uploads/2021/04/09/7eb0e58063e34c06273b649c7a7c14ad.png)
 
-注意：因为没有全面检查，可能存在其它BUG，如果使用本LIB建站，请自己修复。如有疑问，欢迎到 bbs.mud.ren 留言~
+注意：因为没有全面检查，存在的BUG未修复，如果使用本LIB建站，请自己修复。如有疑问，欢迎到 bbs.mud.ren 留言~
